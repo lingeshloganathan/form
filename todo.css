@@ -113,3 +113,20 @@ ul li span:hover {
     background:#edeff0;
 }
 
+@media only screen and (min-width: 300px) and (max-width: 450px) {
+    .todo-app {
+        width: 320px;
+        padding: 40px 10px 70px 10px;
+    }
+    .row {
+        margin: 20px 0;
+        padding-left: 0px;
+    }
+    button {
+     
+        padding: 16px 30px;
+
+        
+    
+    }
+}
