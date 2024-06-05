@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #153677, #4e085f);;
+}
+.container {
+    width: 310px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+.container1 {
+    width: 310px;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+h2 {
+    text-align: center;
+}
+#email {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;   
+}
+#pw {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#username {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.login {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}  
+.signup {
+    width: 100%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.success {
+    color: #155724;
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+}
+.save {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}  
+.cancel {
+    width: 100%;
+    background-color: lightcoral;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
